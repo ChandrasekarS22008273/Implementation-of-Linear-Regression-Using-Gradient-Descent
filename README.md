@@ -61,7 +61,8 @@ print(f"Predicted value: {pre}")
 **data.head()** <br>
 <img height=10% width=99% src="https://github.com/ROHITJAIND/EX-03-Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118707073/b3ef5ab5-c8d3-42d3-86d5-29eea435dac9"><br><br>
 **X values**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Y values** <br>
-<img height=10% width=48% src="https://github.com/ROHITJAIND/EX-03-Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118707073/4fa96a4f-0a85-4307-b011-2ab04b73b9a9">&emsp;<img height=10% width=28% src="https://github.com/ROHITJAIND/EX-03-Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118707073/72810905-e103-4c76-ae8c-8a62f25cce8b"><br>
+<img height=10% width=48% src="![image](https://github.com/ChandrasekarS22008273/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119643845/5953c932-8afc-459d-aa94-020bcc8e629d)
+">&emsp;<img height=10% width=28% src="https://github.com/ROHITJAIND/EX-03-Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118707073/72810905-e103-4c76-ae8c-8a62f25cce8b"><br>
 <br>
 **X scaled**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Y scaled** <br>
 <img height=10% width=48% src="https://github.com/ROHITJAIND/EX-03-Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118707073/9b3626af-2148-45d1-a822-a4019da4a3f5">&emsp;<img height=10% width=28% src="https://github.com/ROHITJAIND/EX-03-Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118707073/a26092ce-9f5e-47b7-97e2-636a1ffe9dc7"><br><br>
